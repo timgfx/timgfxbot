@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         TimGFX Pro Bot
 // @namespace    bot.timgfx.com
-// @version      3.0
+// @version      3.1
 // @description  EZ MONEYZ!
 // @author       TimGFX
 // @match        http://www.csgodouble.com/
