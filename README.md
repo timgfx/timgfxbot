@@ -1,2 +1,2 @@
-# timgfxbot
-TimGFX Bot
+# TimGFX Bot
+Pro Bot much OP!
